@@ -1,6 +1,6 @@
 a = 5
 
-answer = case a
+answer = case 
 when 5
   puts "a is 5"
 when 6
